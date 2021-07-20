@@ -43,7 +43,7 @@ class ChineseWord extends StatelessWidget {
                 ? Container(child: Text(word.pinyin))
                 : Container(child: Text('')),
             Container(
-              //color: Colors.lightBlue,
+              //co>lor: Colors.lightBlue,
               decoration: BoxDecoration(
                 //color: Colors.lightBlue,
                 border: Border(
